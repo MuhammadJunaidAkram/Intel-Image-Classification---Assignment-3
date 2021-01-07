@@ -1,0 +1,3 @@
+Weights of the trained model can be accessed using following link:
+
+https://drive.google.com/file/d/1WyoAqmMarADItfaiP77S-STD_AqK-bry/view?usp=sharing
