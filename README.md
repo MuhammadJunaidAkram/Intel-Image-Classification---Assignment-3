@@ -66,6 +66,9 @@ test_datagen = ImageDataGenerator(rescale = 1./255)
 
 pred_datagen = ImageDataGenerator(rescale = 1./255)
 ```
+## Model Architecture
+
+![alt text](https://github.com/MuhammadJunaidAkram/Intel-Image-Classification---Assignment-3/blob/main/images/model_plot.png?raw=true)
 
 ## Batch Size
 The batch size is kept **64** for this model
